@@ -1,0 +1,307 @@
+{
+	"level_1":{
+		"rank": "Casual Watcher",
+		"level": 1,
+		"points": 5,
+		"questions":
+		[
+			{
+				"question":"How many legitimate children did Ned Stark have?",
+				"answers":[4, 5, 6],
+				"correct": 5
+			},
+			{
+				"question":"What is the capital city of the Seven Kingdoms?",
+				"answers":[ "King's Landing", "Winter Town", "Oldtown", "Riverrun"],
+				"correct":"King's Landing"
+			},
+			{
+				"question":"How many knight are there in Kingsguard?",
+				"answers":[ 3, 7, 10, 100],
+				"correct": 7
+			},
+			{
+				"question":"What is the name of Bran Stark's direwolf?",
+				"answers":["Summer", "Ghost", "Fluffy", "Lady"],
+				"correct":"Summer"
+			},
+			{
+				"question":"Which organisation did Jon Snow join?",
+				"answers":["The Night's Watch", "The Kingsguard", "The Royal Navy"],
+				"correct":"the Night's Watch"
+			},
+			{
+				"question":"Which noble house rules the Seven Kingdoms?",
+				"answers":["Tully", "Stark", "Lannister", "Baratheon"],
+				"correct":"Baratheon"
+			},
+			{
+				"question":"Who is the maester in Castle Black?",
+				"answers":["Maester Aemon", "Maester Luwin", "Maester Pycelle"],
+				"correct":"Maester Aemon"
+			}
+		]
+	},
+
+	"level_2":{
+		"rank": "Occasional Theory Reader",
+		"level": 2,
+		"points": 10,
+		"questions":
+		[
+			{
+				"question":"What is the lake near Harrenhal called?",
+				"answers":["The Gods Eye", "The Black Water Rush", "The Trident"],
+				"correct": "The Gods Eye"
+			},
+			{
+				"question":"What is the closest town to Castle Black?",
+				"answers":[ "King's Landing", "Winter Town", "Mole's Town", "Barrowton"],
+				"correct":"Mole's Town"
+			},
+			{
+				"question":"Who is fond of dragons?",
+				"answers":[ "Tyrion Lannister", "Mace Tyrell", "Theon Greyjoy", "Sansa Stark"],
+				"correct": "Tyrion Lannister"
+			},
+			{
+				"question":" Who gave the order to arrest Tyrion Lannister in the inn at the crossroads?",
+				"answers":["Ned Stark", "Catelyn stark", "Robb Stark", "Lysa Arryn"],
+				"correct":"Catelyn stark"
+			},
+			{
+				"question":"what was the purpose of the Great Ranging?",
+				"answers":["To find Benjen Stark and his men", "To find and kill Mance Rayder", "To negotiate a truce with the Wildlings"],
+				"correct":"To find Benjen Stark"
+			},
+			{
+				"question":"Which noble house rules the North?",
+				"answers":["Tully", "Stark", "Lannister", "Baratheon"],
+				"correct":"Stark"
+			},
+			{
+				"question":"Who is the Grande maester?",
+				"answers":["Maester Aemon", "Maester Luwin", "Maester Pycelle"],
+				"correct":"Maester Pycelle"
+			}
+		]
+	},
+	"level_3":{
+		"rank": "Devoted Show Fan",
+		"level": 3,
+		"points": 15,
+		"questions":
+		[
+			{
+				"question":"Whe does Lord Varys come from?",
+				"answers":["King's Landing", "Pentos", "Volantis", "Oldtown"],
+				"correct": "Pentos"
+			},
+			{
+				"question":"What acsent does Sir Davos have?",
+				"answers":[ "Northen", "Flea Bottom", "Dornish"],
+				"correct":"Flea Bottom"
+			},
+			{
+				"question":"What are the  words of House Lannister?",
+				"answers":[  "Herar me Roar", "Winter is Comming", "Fire and Blood", "Growing Strong"],
+				"correct": "Herar me roar"
+			},
+			{
+				"question":"Where would you go to becone a Maester?",
+				"answers":["Oldtown", "King's Landing", "Lannisport", "Castle Black"],
+				"correct":"Oldtown"
+			},
+			{
+				"question":"Who is the Grand Master of the guild of alchemists of King's Landing?",
+				"answers":["Wisdom Hallyne", "Wisdom Rossart", "Maegor the Cruel"],
+				"correct":"Wisdom Hallyne"
+			},
+			{
+				"question":"Which noble house rules the Iron Islands?",
+				"answers":["Tully", "Greyjoy", "Lannister", "Baratheon"],
+				"correct":"Greyjoy"
+			},
+			{
+				"question":"Who is Tyrion Lanister's squire?",
+				"answers":["Podrick Payne", "Ilyn Payne", "Loras Tyrell", "Tyrek Lannister"],
+				"correct":"Podrick Payne"
+			}
+		]
+	},
+
+"level_4":{
+		"rank": "Nearly as good as a bookworm",
+		"level": 4,
+		"points": 20,
+		"questions":
+		[
+			{
+				"question":"how many brothers did Daenerys Targaryen have?",
+				"answers":[2, 4, 3, 5],
+				"correct": 2
+			},
+			{
+				"question":"How many times did Margaery Tyrell get married?",
+				"answers":[ 3, 1, 2, 0],
+				"correct":3
+			},
+			{
+				"question":"How many monarchs did Ser Barristan Selmy serve?",
+				"answers":[ 3, 5, 2, 1],
+				"correct": 5
+			},
+			{
+				"question":"Who made the prophecy to Cersei Lannister?",
+				"answers":["The Woods witch", "Maggy the Frog", "No one. She saw it in a dream", "The Ghost of Harrenhal"],
+				"correct":"Maggy the Frog"
+			},
+			{
+				"question":"Why did Daenerys Targaryen chain up her dragons?",
+				"answers":["A child was burnt alive", "They could fly away.", "Somebody wanted to kill them"],
+				"correct":"A child was burnt alive"
+			},
+			{
+				"question":"Which noble house rules The Reach?",
+				"answers":["Tully", "Tyrell", "Lannister", "Baratheon"],
+				"correct":"Tyrell"
+			},
+			{
+				"question":"Did Theon Greyjoy kill Bran and Rickon Stark?",
+				"answers":["Yes", "No"],
+				"correct":"No"
+			}
+
+		]
+	},
+
+	"level_5":{
+		"rank": "Passionate Books and Wiki Reader",
+		"level": 5,
+		"points": 30,
+		"questions":
+		[
+			{
+				"question":"How many Free Cities did Daenerys Targaryen visit during her time in Essos?",
+				"answers":[2, 5, 3, 4],
+				"correct": 2
+			},
+			{
+				"question":"Wher was Daenerys Targaryen born",
+				"answers":[ "King's Landing", "Dragonstone", "Oldtown", "Pentos"],
+				"correct":"Dragonstone"
+			},
+			{
+				"question":"Which mineral can be found on Dragonstone in abundance?",
+				"answers":[ "obsidian", "gold", "iron", "Valyrian steel"],
+				"correct": "obsidian"
+			},
+			{
+				"question":"What did Maester Aemon advised Jon Snow to do?",
+				"answers":["Kill the boy", "Leave the Night's Watch ", "Let the Wildlings through the Wall", "Become the Lord Commander"],
+				"correct":"Kill the boy"
+			},
+			{
+				"question":"Who is Jon Snow's favorite historical figure?",
+				"answers":["Aegon Targaryen", "Daeron I Targaryen the Young Dragon", " Florian the Fool"],
+				"correct":"Daeron I Targaryen the Young Dragon"
+			},
+			{
+				"question":"Which noble house rules the Stormlands?",
+				"answers":["Tully", "Stark", "Lannister", "Baratheon"],
+				"correct":"Baratheon"
+			},
+			{
+				"question":"What castle did Petyr Baelish get as a reward for his service to the crown?",
+				"answers":["Winterfell", "Riverrun", "Harrenhal"],
+				"correct":"Harrenhal"
+			}
+		]
+	},
+	"level_6":{
+		"rank": "Fan of the Year",
+		"level": 6,
+		"points": 40,
+		"questions":
+		[
+			{
+				"question":"Who is Jon Snow's father?",
+				"answers":["Ned Stark", "Rhaegar Targaryen", "Jon Arryn"],
+				"correct":"Rhaegar Targaryen"
+			},
+			{
+				"question":"Why did Ned Stark manage to defeat Arthur Dayne?",
+				"answers":[ "he was stabbed in the back", "he slipped", "his sword broke"],
+				"correct":"he was stabbed in the back"
+			},
+			{
+				"question":"Where did the Balish family originally come from?",
+				"answers":[ "Braavos", "Volantis", "Pentos", "Qohor"],
+				"correct":"Braavos" 
+			},
+			{
+				"question":"Who is Edmure Tully's uncle?",
+				"answers":["Jon Arryn", "Ned Stark", "Tywin Lannister", "Brynden Blackfish"],
+				"correct":"Brynden Blackfish"
+			},
+			{
+				"question":"Who is George R. R. Martin's favorite character?",
+				"answers":["Arya", "Tyrion", "Daenerys", "Jon"],
+				"correct":"Tyrion"
+			},
+			{
+				"question":"Which noble house rules The Bear Islands?",
+				"answers":["Tully", "Stark", "Mormont", "Martel"],
+				"correct":"Mormont"
+			},
+			{
+				"question":"Who advised Jon Snow to 'Kill the boy and let the man be born'",
+				"answers":["Maester Aemon", "Maester Luwin", "Benjen Stark"],
+				"correct":"Maester Aemon"
+			}
+		]
+	},
+		"level_7":{
+		"rank": "The Guru of Ice and Fire",
+		"level": 7,
+		"points": 50,
+		"questions":
+		[
+			{
+				"question":"",
+				"answers":["Ned Stark", "Rhaegar Targaryen", "Jon Arryn"],
+				"correct":"Rhaegar Targaryen"
+			},
+			{
+				"question":"Why did Ned Stark manage to defeat Arthur Dayne?",
+				"answers":[ "he was stabbed in the back", "he slipped", "his sword broke"],
+				"correct":"he was stabbed in the back"
+			},
+			{
+				"question":"Where did the Balish family originally come from?",
+				"answers":[ "Braavos", "Volantis", "Pentos", "Qohor"],
+				"correct":"Braavos" 
+			},
+			{
+				"question":"Who is Edmure Tully's uncle?",
+				"answers":["Jon Arryn", "Ned Stark", "Tywin Lannister", "Brynden Blackfish"],
+				"correct":"Brynden Blackfish"
+			},
+			{
+				"question":"Who is George R. R. Martin's favorite character?",
+				"answers":["Arya", "Tyrion", "Daenerys", "Jon"],
+				"correct":"Tyrion"
+			},
+			{
+				"question":"Which noble house rules The Bear Islands?",
+				"answers":["Tully", "Stark", "Mormont", "Martel"],
+				"correct":"Mormont"
+			},
+			{
+				"question":"Who advised Jon Snow to 'Kill the boy and let the man be born'",
+				"answers":["Maester Aemon", "Maester Luwin", "Benjen Stark"],
+				"correct":"Maester Aemon"
+			}
+		]
+	}
+}

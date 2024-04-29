@@ -47,6 +47,8 @@ class Quiz():
                 data=load_json("save")
                 level=data["level"]
                 user_points=data["user_points"]
+                if level > 7:
+                    level = 7
         else:
             level=1
             user_points=0
@@ -56,7 +58,7 @@ class Quiz():
         
     def check_answer(self, answer, correct):
 
-        if str(answer).strip().lower() == str(correct).strip().lower():
+        if str(answer).strip().lower().replace(" ", "") == str(correct).strip().lower().replace(" ",""):
             self.__total_points+=self.__level_data["points"]
             print("Well-done")
         else:
@@ -64,7 +66,6 @@ class Quiz():
 
 
     def display_result(self):
-   
         max_points = len(self.__level_data["questions"])*self.__level_data["points"]*0.7
         if self.__total_points >= max_points:
             self.__level += 1
@@ -98,6 +99,14 @@ class Quiz():
             new_dict["correct"] =  self.__level_data["questions"][q]["correct"]
             tasks.append(new_dict)
         return tasks
+    
+
+    def reset(self):
+        self.__level = 1
+        self.__total_points = 0
+        self.__user_points = 0
+        self.save_game()
+        
 
 #new_quiz = Quiz("save")
 

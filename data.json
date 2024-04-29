@@ -268,7 +268,7 @@
 		"questions":
 		[
 			{
-				"question":"",
+				"question":"Who was the Kigs son?",
 				"answers":["Ned Stark", "Rhaegar Targaryen", "Jon Arryn"],
 				"correct":"Rhaegar Targaryen"
 			},
